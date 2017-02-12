@@ -1,0 +1,6 @@
+C:\Users\Администратор\Google Drive\Курс С#\Homework_2\Homework_2\bin\Debug\Homework_2.exe.config
+C:\Users\Администратор\Google Drive\Курс С#\Homework_2\Homework_2\bin\Debug\Homework_2.exe
+C:\Users\Администратор\Google Drive\Курс С#\Homework_2\Homework_2\bin\Debug\Homework_2.pdb
+C:\Users\Администратор\Google Drive\Курс С#\Homework_2\Homework_2\obj\Debug\Homework_2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Google Drive\Курс С#\Homework_2\Homework_2\obj\Debug\Homework_2.exe
+C:\Users\Администратор\Google Drive\Курс С#\Homework_2\Homework_2\obj\Debug\Homework_2.pdb
