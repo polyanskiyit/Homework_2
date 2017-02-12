@@ -21,6 +21,8 @@ namespace Homework_2
             sumOfThePrice SumOfThePrice = new sumOfThePrice();
             SumOfThePrice.Price(distanceString, timeOfDay, price);
 
+            Console.WriteLine("Hello git VI");
+
             Console.Read();
 
         }
