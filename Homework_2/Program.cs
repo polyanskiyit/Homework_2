@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Homework_2
 {
@@ -19,7 +15,7 @@ namespace Homework_2
             String timeOfDay = Convert.ToString(Console.ReadLine());
 
             sumOfThePrice SumOfThePrice = new sumOfThePrice();
-            SumOfThePrice.Price(distanceString, timeOfDay, price);
+            SumOfThePrice.price(distanceString, timeOfDay, price);
             
             Console.Read();
 
